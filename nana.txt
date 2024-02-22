@@ -1,3 +1,5 @@
 welcome to git practice
 changes done in this file on 19 feb 2024
+welcom to push and pull practice dated on 22 feb 2024
+ok
 ok
